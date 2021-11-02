@@ -1,6 +1,6 @@
 {
   "name": "@alexspirgel/is-element",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Alexander Spirgel",
   "description": "Check to see if an object is an element.",
   "license": "MIT",
@@ -21,6 +21,6 @@
     "url": "https://github.com/alexspirgel/isElement/issues"
   },
   "dependencies": {
-    "@alexspirgel/is-plain-object": "^1.0.4"
+    "@alexspirgel/is-plain-object": "^1.0.5"
   }
 }
