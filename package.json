@@ -1,8 +1,8 @@
 {
   "name": "@alexspirgel/is-element",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Alexander Spirgel",
-  "description": "Check to see if an object is an element.",
+  "description": "A utility function that returns true if the argument is a DOM element. Otherwise returns false.",
   "license": "MIT",
   "keywords": [
     "is-element",
