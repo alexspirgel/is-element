@@ -1,5 +1,5 @@
-# isElement
-Check to see if an object is an element.
+# Is Element
+A utility function that returns `true` if the argument is a DOM element. Otherwise returns `false`.
 
 ## Installation
 

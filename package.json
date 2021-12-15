@@ -1,24 +1,26 @@
 {
   "name": "@alexspirgel/is-element",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Alexander Spirgel",
   "description": "Check to see if an object is an element.",
   "license": "MIT",
   "keywords": [
+    "is-element",
+    "iselement",
     "element",
     "object"
   ],
-  "main": "isElement.js",
+  "main": "is-element.js",
   "files": [
-    "/isElement.js"
+    "/is-element.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexspirgel/isElement.git"
+    "url": "git+https://github.com/alexspirgel/is-element.git"
   },
-  "homepage": "https://github.com/alexspirgel/isElement#readme",
+  "homepage": "https://github.com/alexspirgel/is-element#readme",
   "bugs": {
-    "url": "https://github.com/alexspirgel/isElement/issues"
+    "url": "https://github.com/alexspirgel/is-element/issues"
   },
   "dependencies": {
     "@alexspirgel/is-plain-object": "^1.0.5"
